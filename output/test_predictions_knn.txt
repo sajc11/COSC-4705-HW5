@@ -1,0 +1,6 @@
+amazon-test.pcap → predicted: amazon, actual: amazon
+github-test.pcap → predicted: github, actual: github
+google-test.pcap → predicted: google, actual: google
+nytimes-test.pcap → predicted: nytimes, actual: nytimes
+steam-test.pcap → predicted: amazon, actual: steam
+youtube-test.pcap → predicted: amazon, actual: youtube

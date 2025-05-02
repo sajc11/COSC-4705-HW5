@@ -1,0 +1,60 @@
+- .DS_Store
+- .gitattributes
+- LICENSE
+- README.md
+- analysis
+  - extract_features.py
+- capture_packets.sh
+- classify
+  - classify_site.py
+  - classify_site_knn.py
+- data
+  - .DS_Store
+  - pcaps
+    - .DS_Store
+    - amazon-test.pcap
+    - amazon-train1.pcap
+    - amazon-train2.pcap
+    - amazon-train3.pcap
+    - amazon-train4.pcap
+    - github-test.pcap
+    - github-train1.pcap
+    - github-train2.pcap
+    - github-train3.pcap
+    - github-train4.pcap
+    - google-test.pcap
+    - google-train1.pcap
+    - google-train2.pcap
+    - google-train3.pcap
+    - google-train4.pcap
+    - nytimes-test.pcap
+    - nytimes-train1.pcap
+    - nytimes-train2.pcap
+    - nytimes-train3.pcap
+    - nytimes-train4.pcap
+    - steam-test.pcap
+    - steam-train1.pcap
+    - steam-train2.pcap
+    - steam-train3.pcap
+    - steam-train4.pcap
+    - youtube-test.pcap
+    - youtube-train1.pcap
+    - youtube-train2.pcap
+    - youtube-train3.pcap
+    - youtube-train4.pcap
+- evaluate
+  - compare_matrices.py
+  - confusion_matrix.py
+  - confusion_matrix_knn.py
+  - evaluate_accuracy.py
+  - evaluate_accuracy_knn.py
+- output
+  - comparison_matrix.png
+  - confusion_matrix.png
+  - confusion_matrix_knn.png
+  - stats.csv
+  - test_predictions.txt
+  - test_predictions_knn.txt
+- requirements.txt
+- utils
+  - debug_pcaps.py
